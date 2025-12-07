@@ -20,11 +20,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environment
-venv/
-env/
-ENV/
-.venv
 
 # IDE
 .vscode/
@@ -66,10 +61,6 @@ htmlcov/
 
 # Streamlit
 .streamlit/
-
-# OS
-Thumbs.db
-desktop.ini
 
 # Temporary files
 *.tmp
